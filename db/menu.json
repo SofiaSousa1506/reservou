@@ -1,0 +1,107 @@
+{
+  "maisPedidos": [
+    {
+      "nome": "costela de braseado de milho",
+      "descrição": "Costela assada lentamente com milho grelhado",
+      "preço": "R$ 58,00"
+    },
+    {
+      "nome": "petit gâteau",
+      "descrição": "Bolinho de chocolate com interior cremoso",
+      "preço": "R$ 22,00"
+    },
+    {
+      "nome": "croque monsieur",
+      "descrição": "Sanduíche gratinado com presunto e bechamel",
+      "preço": "R$ 26,00"
+    }
+  ],
+  "aperitivos": [
+    {
+      "nome": "azeite de sevoja espanhola",
+      "descrição": "Pão com azeite de oliva e especiarias",
+      "preço": "R$ 18,00"
+    },
+    {
+      "nome": "fritas de alcachofra",
+      "descrição": "Alcachofras crocantes com molho aioli",
+      "preço": "R$ 25,00"
+    },
+    {
+      "nome": "carpaccio de salmão",
+      "descrição": "Finas fatias de salmão com alcaparras e limão",
+      "preço": "R$ 32,00"
+    },
+    {
+      "nome": "bolinhos frittadinha",
+      "descrição": "Bolinhos de batata e queijo com ervas",
+      "preço": "R$ 22,00"
+    }
+  ],
+  "sanduiches": [
+    {
+      "nome": "prego de picanha",
+      "descrição": "Pão ciabatta com fatias de picanha e chimichurri",
+      "preço": "R$ 32,00"
+    },
+    {
+      "nome": "club sanduíche",
+      "descrição": "Sanduíche em camadas com frango, bacon e ovo",
+      "preço": "R$ 28,00"
+    },
+    {
+      "nome": "banh mi",
+      "descrição": "Baguete vietnamita com carne marinada e legumes",
+      "preço": "R$ 30,00"
+    },
+    {
+      "nome": "croque monsieur",
+      "descrição": "Sanduíche gratinado com presunto e bechamel",
+      "preço": "R$ 26,00"
+    }
+  ],
+  "especialidades": [
+    {
+      "nome": "costela de braseado de milho",
+      "descrição": "Costela assada lentamente com milho grelhado",
+      "preço": "R$ 58,00"
+    },
+    {
+      "nome": "tarte flambée",
+      "descrição": "Torta tradicional com creme, cebola e bacon",
+      "preço": "R$ 45,00"
+    },
+    {
+      "nome": "risoto frito al tartufo",
+      "descrição": "Risoto com trufa negra e parmesão",
+      "preço": "R$ 62,00"
+    },
+    {
+      "nome": "monte cristo",
+      "descrição": "Sanduíche quente com presunto e queijo empanado",
+      "preço": "R$ 36,00"
+    }
+  ],
+  "sobremesas": [
+    {
+      "nome": "cannolo siciliano",
+      "descrição": "Massa crocante recheada com creme de ricota",
+      "preço": "R$ 18,00"
+    },
+    {
+      "nome": "petit gâteau",
+      "descrição": "Bolinho de chocolate com interior cremoso",
+      "preço": "R$ 22,00"
+    },
+    {
+      "nome": "verrine de frutas",
+      "descrição": "Camadas de frutas frescas com creme de baunilha",
+      "preço": "R$ 16,00"
+    },
+    {
+      "nome": "tiramisu",
+      "descrição": "Sobremesa italiana com café, mascarpone e cacau",
+      "preço": "R$ 20,00"
+    }
+  ]
+}
